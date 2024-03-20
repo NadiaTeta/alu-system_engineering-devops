@@ -12,6 +12,4 @@ ufw allow 22/tcp
 ufw allow 443/tcp
 ufw allow 80/tcp
 
-ufw deny 1:65535/tcp
-
 ufw reload
