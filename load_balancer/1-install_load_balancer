@@ -32,7 +32,6 @@ defaults
   timeout client 15s
   timeout connect 10s
   timeout server 15s
-  timeout http-request 10s
 
 frontend nadiateta-tech-frontend
     bind *:80
